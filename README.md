@@ -13,9 +13,15 @@ point of mark down is to customize text in html
 ###### heading level 6 (max)
 
 ## how to push
-git add . <br>
-git commit -m"my message" <br>
-git push <br> 
+1. git add . <br>
+1. git commit -m "my message" <br>
+1. git push <br> 
+
+## how to make gitbranchs
+
+git branch //see what branchs you have <br>
+git branch "branch name" //to create branch <br>
+git branch checkout "branch name" //to change branchs <br>
 
 ## Lists 
 
@@ -86,6 +92,8 @@ underscore </ins> <br>
      <li>third</li>
      <li>fourth</li>
 </ol>
+
+##Links
 
 [Markdownwork](#codeblock) <br>
 [google](http://www.google.com/) 
