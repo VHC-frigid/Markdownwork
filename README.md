@@ -43,9 +43,38 @@ Very top left of Keyboard,
 under esc, left of 1
 ~
 
+## anything within the grave keys makes the code copyable in github
+
 ```
 public class test
 {
      int test =0;
 }
 ```
+//Name of image then file name
+
+![homer](homer.gif)  
+
+![albino](albino.gif)
+
+## Formatting 
+
+this text is **bold** <br>
+this text is __bold__ <br>
+this text is *italics* <br>
+this text is _italics_ <br>
+this text is ***bold italics*** <br>
+this text is ~~Strikeout~~ <br>
+This text is <ins> 
+underscore </ins> <br>
+~ is the above character <br>
+
+##Blockquote
+
+
+
+
+
+
+
+
